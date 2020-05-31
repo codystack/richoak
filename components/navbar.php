@@ -16,12 +16,13 @@
                     <li><i class="fa fa-envelope-o"></i><a href="mailto:info@richoakschools.com">info@richoakschools.com</a></li>
                 </ul>
             </div>
+            <!--
             <div class="gt_hdr3_search">
                 <form>
                     <input type="search" placeholder="Enter your search...">
                     <button><i class="fa fa-search"></i></button>
                 </form>
-            </div>
+            </div>-->
         </div>
     </div>
     <div class="gt_top3_menu default_width">

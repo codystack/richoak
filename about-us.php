@@ -5,17 +5,19 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Kid Template for Children and child.">
-    <meta name="keywords" content="child,children,school,childcare,colorful">
-    <meta name="author" content="2goodtheme">
+    <meta name="description" content="Richoak Montessori Nursery and Primary School was established in JUNE 2015 to offer excellent, superior and high-quality nursery and primary education.">
+    <meta name="keywords" content="child,children,school,childcare,colorful,Rich Oak,Rich Oak Montessori School,Montessori,School">
+    <meta name="author" content="WebifyNG">
 
-    <title>review - Sc</title>
-    <!-- Progress Bar CSS -->
-    <link href="css/animate.css" rel="stylesheet">
-    <!-- Custom Main StyleSheet CSS -->
+    <title>About Us :: Rich Oak Montessori School&trade;</title>
+    <link rel="shortcut icon" href="/images/favicon.png">
+    <!-- Swiper Slider CSS -->
+    <link href="css/swiper.css" rel="stylesheet">
+	<!-- Custom Main StyleSheet CSS -->
     <link href="style.css" rel="stylesheet">
     <!-- Color CSS -->
     <link href="css/color.css" rel="stylesheet">
+    <link href="css/color_custom.css" rel="stylesheet">
     <!-- Responsive CSS -->
     <link href="css/responsive.css" rel="stylesheet">
   </head>
@@ -25,7 +27,7 @@
 <!--gt Wrapper Start-->
 <div class="gt_wrapper">
 
-<?php include 'navbar.php'; ?>
+<?php include './components/navbar.php'; ?>
 
     <!--Sub Banner Wrap Start -->
     <div class="gt_sub_banner_bg default_width">
@@ -50,10 +52,14 @@
                     <div class="col-md-8">
                         <div class="gt_about_wrap">
                             <h4 class="title">Welcome to Richoak Montessori School</h4>
-                            <p> Richoak Montessori School was founded in October 1981 by Mrs. Olugbeminiyi Modupe-Ore Smith</p>
-                            <p> The Nursery school which was situated at Ibikunle Street, Yaba, began with only 15 pupils. There were only two teachers; Mrs. Smith and a Sri-Lankan lady called Mrs. Honouring Gnanapragasam.
-                                Although the school started with 15 children on the first day, the number kept increasing daily so much so that by the end of the term, the number on roll had grown to 50.</p>
-                            <p> Since its foundation, Childville grew steadily with improved facilities to enhance teaching and learning and by the end of the second term, there were about 125 children in the school. The school was approved after the 1st official inspection by the Lagos State Ministry of Education in October 1987 and the first Head Teacher was Mrs. O.M. Smith.In January 1988, Mrs. Funsho Adeleke and Mrs. B. O. Doherty were appointed Head Teacher and Assistant Head Teacher respectively.</p>
+                            <p> Welcome to Richoak Montessori Nursery and Primary School - ‘Where Young Minds Flourish!’</p>
+                            <p>Richoak Montessori Nursery and Primary School was established in JUNE 2015 to offer excellent, superior and high-quality nursery and primary education.</p>
+                            <p>In accordance with the vision of the founders, we are determined to provide our pupils with an academically challenging environment in which all students are encouraged to work hard in order to meet the desired and meaningful achievements expected of them. Richoak Montessori Nursery and Primary School provides a stimulating, exhilarating and inspiring learning environment, which creates opportunities for all pupils to achieve the best results. Our standards and expectations are high and we pride ourselves in giving every pupil the opportunity to excel, fulfil their potential and become highly qualified and fully equipped for the demands and exciting challenges of life after primary school.</p> 
+                            <p>At Richoak Montessori Nursery and Primary School, children happily explore a broad and balanced curriculum which aims to develop confidence, self-esteem and a strong sense of social responsibility.</p>
+                            <p>We celebrate diversity and value equality.</p>
+                            <p>We have high expectations and pupils at Richoak Montessori Nursery and Primary School are encouraged to achieve their full potential, and know that by working hard anything is achievable! We identify pupils’ skills and talents and champion ambition.</p>
+                            <p>We hope that this website helps you to find out more about life and work at Richoak Montessori Nursery and Primary School. It also contains important dates and information, so please check regularly for details.</p>
+                            <p>If you require further information or would like to visit please do not hesitate to contact the school office. The staff and I look forward to working in partnership with you to achieve the very best outcomes for your children.</p>
 
                         </div>
                     </div>
@@ -185,40 +191,4 @@
     </div>
     <!--Main Content Wrap End-->
 
-<?php include 'footer.php'; ?>
-    <!--Back to Top Wrap Start-->
-    <div class="back-to-top">
-        <a href="#home"><i class="fa fa-angle-up"></i></a>
-    </div>
-    <!--Back to Top Wrap Start-->
-
-</div>
-<!--gt Wrapper End-->
-
-
-
-    <!--Jquery Library-->
-    <script src="js/jquery.js"></script>
-    <!--Bootstrap core JavaScript-->
-    <script src="js/bootstrap.min.js"></script>
-    <!--Accordian JavaScript-->
-    <script src="js/jquery.accordion.js"></script>
-    <!--Count Down JavaScript-->
-    <script src="js/jquery.downCount.js"></script>
-    <!--Pretty Photo JavaScript-->
-    <script src="js/jquery.prettyPhoto.js"></script>
-    <!--Owl Carousel JavaScript-->
-    <script src="js/owl.carousel.js"></script>
-    <!--Number Count (Waypoint) JavaScript-->
-    <script src="js/waypoints-min.js"></script>
-    <!--Filter able JavaScript-->
-    <script src="js/jquery-filterable.js"></script>
-    <!--WOW JavaScript-->
-    <script src="js/wow.min.js"></script>
-    <!--Custom JavaScript-->
-    <script src="js/custom.js"></script>
-
-  </body>
-
-<!-- Mirrored from 2goodtheme.net/html/kidcenter/layout/about-us.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 28 Jul 2017 10:37:43 GMT -->
-</html>
+<?php include './components/footer.php'; ?>
