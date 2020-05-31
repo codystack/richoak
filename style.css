@@ -584,7 +584,7 @@ ul.gt_hdr3_scl_icon li a{
     padding: 9px 10px 5px;
     cursor: pointer;
 }
-.gt_hdr3_navigation .navbar-btn span{display:block;width: 25px;height: 3px;margin-bottom: 4px;}
+.gt_hdr3_navigation .navbar-btn span{display:block;height: 3px;margin-bottom: 4px;}
 /*
 	  ==============================================================
 		   POPUP Menu CSS

@@ -21,13 +21,13 @@
                                 </li>
                                 <li>
                                     Saturady - Sunday
-                                    <span>off</span>
+                                    <span>Closed</span>
                                 </li>
                             </ul>
                         </div>
                         <div class="gt_foo_about widget">
                             <h5>About Richoak Montessori School</h5>
-                            <p>The Nursery school which was situated at Ibikunle Street, Yaba, began with only 15 pupils. There were only two teachers; Mrs. Smith and a Sri-Lankan lady called Mrs. Honouring Gnanapragasam. </p>
+                            <p>Richoak Montessori Nursery and Primary School was established in JUNE 2015 to offer excellent, superior and high-quality nursery and primary education.</p>
                             <ul>
                                 <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                                 <li><a href="#"><i class="fa fa-twitter"></i></a></li>

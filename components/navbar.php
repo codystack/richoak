@@ -31,11 +31,11 @@
             </div>
             <nav class="gt_hdr3_navigation">
                 <!-- Responsive Buttun -->
-                <!--<a class="navbar-btn collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                <a class="navbar-btn collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">MENU
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
-                </a>-->
+                </a>
                 <!-- Responsive Buttun -->
                 <ul class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                     <li><a href="\">Home</a> </li>
