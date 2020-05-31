@@ -44,7 +44,7 @@
                     <li><a href="gallery">Gallery</a></li>
                     <li><a href="news">News</a></li>
                     <li><a href="contact-us">Contact Us</a></li>
-                    <li><a href="https://portal.richoakschools.com" target="_blank" class="btn btn-portal active" role="button" aria-pressed="true">School Portal</a></li>
+                    <li><a href="https://portal.richoakschools.com/login" target="_blank" class="btn btn-portal active" role="button" aria-pressed="true">School Portal</a></li>
                 </ul>
             </nav>
         </div>
