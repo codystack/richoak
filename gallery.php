@@ -1,26 +1,23 @@
-<?php
-# @Date:   2017-07-28T12:38:15+01:00
-# @Last modified time: 2017-08-02T13:39:44+01:00
-
-?>
-
 <!DOCTYPE html>
 <html lang="en">
 
-<!-- Mirrored from 2goodtheme.net/html/kidcenter/layout/gallery-style-01.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 28 Jul 2017 10:41:28 GMT -->
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Kid Template for Children and child.">
-    <meta name="keywords" content="child,children,school,childcare,colorful">
-    <meta name="author" content="2goodtheme">
+    <meta name="description" content="Richoak Montessori Nursery and Primary School was established in JUNE 2015 to offer excellent, superior and high-quality nursery and primary education.">
+    <meta name="keywords" content="child,children,school,childcare,colorful,Rich Oak,Rich Oak Montessori School,Montessori,School">
+    <meta name="author" content="WebifyNG">
 
-    <title>Rick Oak Montessori School</title>
-    <!-- Custom Main StyleSheet CSS -->
+    <title>Gallery :: Rich Oak Montessori School&trade;</title>
+    <link rel="shortcut icon" href="/images/favicon.png">
+    <!-- Swiper Slider CSS -->
+    <link href="css/swiper.css" rel="stylesheet">
+	<!-- Custom Main StyleSheet CSS -->
     <link href="style.css" rel="stylesheet">
     <!-- Color CSS -->
     <link href="css/color.css" rel="stylesheet">
+    <link href="css/color_custom.css" rel="stylesheet">
     <!-- Responsive CSS -->
     <link href="css/responsive.css" rel="stylesheet">
   </head>
@@ -30,7 +27,7 @@
 <!--gt Wrapper Start-->
 <div class="gt_wrapper">
 
-<?php include "navbar.php"; ?>
+<?php include "./components/navbar.php"; ?>
 
     <!--Sub Banner Wrap Start -->
     <div class="gt_sub_banner_bg default_width">
@@ -145,41 +142,5 @@
     </div>
     <!--Main Content Wrap End-->
 
-<?php include "footer.php"; ?>
+<?php include "./components/footer.php"; ?>
 
-    <!--Back to Top Wrap Start-->
-    <div class="back-to-top">
-        <a href="#home"><i class="fa fa-angle-up"></i></a>
-    </div>
-    <!--Back to Top Wrap Start-->
-
-</div>
-<!--gt Wrapper End-->
-
-
-
-    <!--Jquery Library-->
-    <script src="js/jquery.js"></script>
-    <!--Bootstrap core JavaScript-->
-    <script src="js/bootstrap.min.js"></script>
-    <!--Accordian JavaScript-->
-    <script src="js/jquery.accordion.js"></script>
-    <!--Count Down JavaScript-->
-    <script src="js/jquery.downCount.js"></script>
-    <!--Pretty Photo JavaScript-->
-    <script src="js/jquery.prettyPhoto.js"></script>
-    <!--Owl Carousel JavaScript-->
-    <script src="js/owl.carousel.js"></script>
-    <!--Number Count (Waypoint) JavaScript-->
-    <script src="js/waypoints-min.js"></script>
-    <!--Filter able JavaScript-->
-    <script src="js/jquery-filterable.js"></script>
-    <!--WOW JavaScript-->
-    <script src="js/wow.min.js"></script>
-    <!--Custom JavaScript-->
-    <script src="js/custom.js"></script>
-
-  </body>
-
-<!-- Mirrored from 2goodtheme.net/html/kidcenter/layout/gallery-style-01.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 28 Jul 2017 10:41:48 GMT -->
-</html>

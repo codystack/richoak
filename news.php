@@ -1,26 +1,23 @@
-<?php
-# @Date:   2017-07-28T12:38:15+01:00
-# @Last modified time: 2017-08-02T13:42:06+01:00
-?>
-
-
 <!DOCTYPE html>
 <html lang="en">
 
-<!-- Mirrored from 2goodtheme.net/html/kidcenter/layout/news-listing-style-01.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 28 Jul 2017 10:40:21 GMT -->
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Kid Template for Children and child.">
-    <meta name="keywords" content="child,children,school,childcare,colorful">
-    <meta name="author" content="2goodtheme">
+    <meta name="description" content="Richoak Montessori Nursery and Primary School was established in JUNE 2015 to offer excellent, superior and high-quality nursery and primary education.">
+    <meta name="keywords" content="child,children,school,childcare,colorful,Rich Oak,Rich Oak Montessori School,Montessori,School">
+    <meta name="author" content="WebifyNG">
 
-    <title>Rick Oak Montessori School</title>
-    <!-- Custom Main StyleSheet CSS -->
+    <title>News :: Rich Oak Montessori School&trade;</title>
+    <link rel="shortcut icon" href="/images/favicon.png">
+    <!-- Swiper Slider CSS -->
+    <link href="css/swiper.css" rel="stylesheet">
+	<!-- Custom Main StyleSheet CSS -->
     <link href="style.css" rel="stylesheet">
     <!-- Color CSS -->
     <link href="css/color.css" rel="stylesheet">
+    <link href="css/color_custom.css" rel="stylesheet">
     <!-- Responsive CSS -->
     <link href="css/responsive.css" rel="stylesheet">
   </head>
@@ -30,7 +27,7 @@
 <!--gt Wrapper Start-->
 <div class="gt_wrapper">
 
-<?php include "navbar.php"; ?>
+<?php include "./components/navbar.php"; ?>
 
     <!--Sub Banner Wrap Start -->
     <div class="gt_sub_banner_bg default_width">
@@ -137,16 +134,16 @@
                     <div class="col-md-3">
                         <aside class="gt_aside_outer_wrap">
                             <!--Search Bar Wrap Start-->
-                            <div class="gt_aside_search_wrap aside_margin_bottom">
+                            <!--<div class="gt_aside_search_wrap aside_margin_bottom">
                                 <form>
                                     <input class="c_ph" type="text" placeholder="Search">
                                     <button class="fa fa-search"></button>
                                 </form>
-                            </div>
+                            </div>-->
                             <!--Search Bar Wrap Start-->
 
                             <!--Category Wrap Start-->
-                            <div class="gt_aside_category gt_detail_hdg aside_margin_bottom">
+                            <!--<div class="gt_aside_category gt_detail_hdg aside_margin_bottom">
                                 <h6>Categories</h6>
                                 <ul>
                                     <li><a href="#">Guidance</a> <span>(55)</span></li>
@@ -156,11 +153,12 @@
                                     <li><a href="#">Clean design</a> <span>(25)</span></li>
                                     <li><a href="#">Happy Clients</a> <span>(50)</span></li>
                                 </ul>
-                            </div>
+                            </div>-->
                             <!--Category Wrap Start-->
 
                             
                             <!--Tags Wrap Start-->
+                            <!--
                             <div class="gt_aside_tags gt_detail_hdg">
                                 <h6>Tags</h6>
                                 <ul>
@@ -175,7 +173,7 @@
                                         <a href="#">MuSiC</a>
                                     </li>
                                 </ul>
-                            </div>
+                            </div>-->
                             <!--Tags Wrap Start-->
                         </aside>
                     </div>
@@ -187,41 +185,4 @@
     </div>
     <!--Main Content Wrap End-->
 
-<?php include "footer.php"; ?>
-
-    <!--Back to Top Wrap Start-->
-    <div class="back-to-top">
-        <a href="#home"><i class="fa fa-angle-up"></i></a>
-    </div>
-    <!--Back to Top Wrap Start-->
-
-</div>
-<!--gt Wrapper End-->
-
-
-
-    <!--Jquery Library-->
-    <script src="js/jquery.js"></script>
-    <!--Bootstrap core JavaScript-->
-    <script src="js/bootstrap.min.js"></script>
-    <!--Accordian JavaScript-->
-    <script src="js/jquery.accordion.js"></script>
-    <!--Count Down JavaScript-->
-    <script src="js/jquery.downCount.js"></script>
-    <!--Pretty Photo JavaScript-->
-    <script src="js/jquery.prettyPhoto.js"></script>
-    <!--Owl Carousel JavaScript-->
-    <script src="js/owl.carousel.js"></script>
-    <!--Number Count (Waypoint) JavaScript-->
-    <script src="js/waypoints-min.js"></script>
-    <!--Filter able JavaScript-->
-    <script src="js/jquery-filterable.js"></script>
-    <!--WOW JavaScript-->
-    <script src="js/wow.min.js"></script>
-    <!--Custom JavaScript-->
-    <script src="js/custom.js"></script>
-
-  </body>
-
-<!-- Mirrored from 2goodtheme.net/html/kidcenter/layout/news-listing-style-01.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 28 Jul 2017 10:41:00 GMT -->
-</html>
+<?php include "./components/footer.php"; ?>
