@@ -1,0 +1,10 @@
+.gt_gallery_bg:before{
+  background: #24262B;
+}
+.copyright_wrap, .default_width span a{
+  color: #F1C40F;
+}
+.gt_main_services {
+  width: 100%;
+  height: 300px;
+}
