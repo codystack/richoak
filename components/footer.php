@@ -164,7 +164,11 @@
     <!--WOW JavaScript-->
     <script src="js/wow.min.js"></script>
     <!--Custom JavaScript-->
-	<script src="js/custom.js"></script>
+    <script src="js/custom.js"></script>
+    <!--Contact Form Validation JavaScript-->
+    <script src="js/pluginse209.js"></script>
+    <!--Map JavaScript-->
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDODKndJ8udk9xrwV_9KZwzziQOgsAR3Ew" type="text/javascript"></script>
 
   </body>
 

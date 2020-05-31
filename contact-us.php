@@ -1,26 +1,23 @@
-<?php
-# @Date:   2017-07-28T12:38:14+01:00
-# @Last modified time: 2017-08-03T11:31:23+01:00
-?>
-
-
 <!DOCTYPE html>
 <html lang="en">
 
-<!-- Mirrored from 2goodtheme.net/html/kidcenter/layout/contact-us.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 28 Jul 2017 10:43:01 GMT -->
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Kid Template for Children and child.">
-    <meta name="keywords" content="child,children,school,childcare,colorful">
-    <meta name="author" content="2goodtheme">
+    <meta name="description" content="Richoak Montessori Nursery and Primary School was established in JUNE 2015 to offer excellent, superior and high-quality nursery and primary education.">
+    <meta name="keywords" content="child,children,school,childcare,colorful,Rich Oak,Rich Oak Montessori School,Montessori,School">
+    <meta name="author" content="WebifyNG">
 
-    <title>Rich Oak Montessori School</title>
-    <!-- Custom Main StyleSheet CSS -->
+    <title>Contact Us :: Rich Oak Montessori School&trade;</title>
+    <link rel="shortcut icon" href="/images/favicon.png">
+    <!-- Swiper Slider CSS -->
+    <link href="css/swiper.css" rel="stylesheet">
+	<!-- Custom Main StyleSheet CSS -->
     <link href="style.css" rel="stylesheet">
     <!-- Color CSS -->
     <link href="css/color.css" rel="stylesheet">
+    <link href="css/color_custom.css" rel="stylesheet">
     <!-- Responsive CSS -->
     <link href="css/responsive.css" rel="stylesheet">
   </head>
@@ -30,7 +27,7 @@
 <!--gt Wrapper Start-->
 <div class="gt_wrapper">
 
-<?php include "navbar.php"; ?>
+<?php include "./components/navbar.php"; ?>
 
     <!--Sub Banner Wrap Start -->
     <div class="gt_sub_banner_bg default_width">
@@ -124,32 +121,4 @@
     </div>
     <!--Main Content Wrap End-->
 
-<?php include "footer.php"; ?>
-    <!--Back to Top Wrap Start-->
-    <div class="back-to-top">
-        <a href="#home"><i class="fa fa-angle-up"></i></a>
-    </div>
-    <!--Back to Top Wrap Start-->
-
-</div>
-<!--gt Wrapper End-->
-
-
-
-    <!--Jquery Library-->
-    <script src="js/jquery.js"></script>
-    <!--Bootstrap core JavaScript-->
-    <script src="js/bootstrap.min.js"></script>
-    <!--Map JavaScript-->
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDk9KNSL1jTv4MY9Pza6w8DJkpI_nHyCnk" type="text/javascript"></script>
-    <!--Filter able JavaScript-->
-    <script src="js/jquery-filterable.js"></script>
-    <!--Contact Form Validation JavaScript-->
-    <script src="js/pluginse209.js"></script>
-    <!--Custom JavaScript-->
-    <script src="js/custom.js"></script>
-
-  </body>
-
-<!-- Mirrored from 2goodtheme.net/html/kidcenter/layout/contact-us.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 28 Jul 2017 10:43:01 GMT -->
-</html>
+<?php include "./components/footer.php"; ?>

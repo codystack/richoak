@@ -460,7 +460,7 @@ $(document).ready(function(){
 	function initialize() {
 		var MY_MAPTYPE_ID = 'custom_style';
 		var map;
-		var brooklyn = new google.maps.LatLng(40.6743890, -73.9455);
+		var brooklyn = new google.maps.LatLng(4.860178, 7.023063);
 		var featureOpts = [
 			{
 			  stylers: [

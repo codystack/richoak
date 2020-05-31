@@ -38,7 +38,7 @@
                 </a>-->
                 <!-- Responsive Buttun -->
                 <ul class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-                    <li class="active"><a href="\">Home</a> </li>
+                    <li><a href="\">Home</a> </li>
                     <li><a href="about-us">About Us</a></li>
                     <li><a href="gallery">Gallery</a></li>
                     <li><a href="news">News</a></li>

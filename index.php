@@ -1,6 +1,3 @@
-<?php
-
-?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -8,12 +5,12 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Kid Template for Children and child.">
+    <meta name="description" content="Richoak Montessori Nursery and Primary School was established in JUNE 2015 to offer excellent, superior and high-quality nursery and primary education.">
     <meta name="keywords" content="child,children,school,childcare,colorful,Rich Oak,Rich Oak Montessori School,Montessori,School">
     <meta name="author" content="WebifyNG">
 
     <title>Rich Oak Montessori School&trade;</title>
-    <link rel="shortcut icon" href="/images/logo.png">
+    <link rel="shortcut icon" href="/images/favicon.png">
     <!-- Swiper Slider CSS -->
     <link href="css/swiper.css" rel="stylesheet">
 	<!-- Custom Main StyleSheet CSS -->
