@@ -35,8 +35,8 @@
             <div class="gt_sub_banner_hdg  default_width">
                 <h3>News & Events</h3>
                 <ul>
-                    <li><a href="#">Home</a></li>
-                    <li><a href="#">News & Events</a></li>
+                    <li><a href="\">Home</a></li>
+                    <li><a href="news">News & Events</a></li>
                 </ul>
             </div>
         </div>

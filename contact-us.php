@@ -35,8 +35,8 @@
             <div class="gt_sub_banner_hdg  default_width">
                 <h3>Contact Us</h3>
                 <ul>
-                    <li><a href="index.php">Home</a></li>
-                    <li><a href="contact-us.php">Contact Us</a></li>
+                    <li><a href="\">Home</a></li>
+                    <li><a href="contact-us">Contact Us</a></li>
                 </ul>
             </div>
         </div>

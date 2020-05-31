@@ -35,8 +35,8 @@
             <div class="gt_sub_banner_hdg  default_width">
                 <h3>About Us</h3>
                 <ul>
-                    <li><a href="#">Home</a></li>
-                    <li><a href="#">About Us</a></li>
+                    <li><a href="\">Home</a></li>
+                    <li><a href="about-us">About Us</a></li>
                 </ul>
             </div>
         </div>
