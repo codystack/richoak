@@ -83,28 +83,28 @@
                 <div class="row">
                     <div class="col-md-3 col-sm-6">
                         <div class="gt_facts_wrap">
-                            <h2 class="counter">500</h2>
+                            <h2 class="counter">12</h2>
                             <span>Subjects</span>
                          </div>
                          <span class="facts_border bg_1"></span>
                     </div>
                     <div class="col-md-3 col-sm-6">
                         <div class="gt_facts_wrap">
-                            <h2 class="counter">50</h2>
+                            <h2 class="counter">3</h2>
                             <span>Modern lab</span>
                          </div>
                          <span class="facts_border bg_2"></span>
                     </div>
                     <div class="col-md-3 col-sm-6">
                         <div class="gt_facts_wrap">
-                            <h2 class="counter">10</h2>
+                            <h2 class="counter">20</h2>
                             <span>Instructors</span>
                         </div>
                         <span class="facts_border bg_3"></span>
                     </div>
                     <div class="col-md-3 col-sm-6">
                         <div class="gt_facts_wrap">
-                            <h2 class="counter">50</h2>
+                            <h2 class="counter">250</h2>
                             <span>Students</span>
                         </div>
                         <span class="facts_border bg_4"></span>
@@ -120,72 +120,6 @@
             </div>
         </section>
         <!--Meet Our Best Teacher Wrap End-->
-
-        <!--Skill and Experience Wrap Start-->
-        <section class="gt_skill_bg">
-            <div class="container">
-                <!--Main Heading Wrap Start-->
-                <div class="gt_hdg_1">
-                    <h3>Our Skills and Experience</h3>
-                </div>
-                <!--Main Heading Wrap End-->
-
-                <!--Teacher List Wrap Start-->
-                <div class="row">
-                    <div class="col-md-6">
-                        <div class="skill-content-3">
-                            <div class="skill">
-                                <!-- PROGRESS START -->
-                                <div class="progress">
-                                    <div class="lead">Corporate Business :</div>
-                                    <div class="p_bg1 progress-bar wow fadeInLeft" data-progress="95%" style="width: 95%; visibility: visible; animation-duration: 1.5s; animation-delay: 1.2s; animation-name: fadeInLeft;" data-wow-duration="1.5s" data-wow-delay="1.2s"> <span>95%</span></div>
-                                </div>
-                                <!-- PROGRESS END -->
-                                <!-- PROGRESS START -->
-                                <div class="progress">
-                                    <div class="lead">Online Business :</div>
-                                    <div class="p_bg2 progress-bar wow fadeInLeft" data-progress="85%" style="width: 85%; visibility: visible; animation-duration: 1.5s; animation-delay: 1.2s; animation-name: fadeInLeft;" data-wow-duration="1.5s" data-wow-delay="1.2s"><span>85%</span> </div>
-                                </div>
-                                <!-- PROGRESS END -->
-                                <!-- PROGRESS START -->
-                                <div class="progress">
-                                    <div class="lead">Local Business :</div>
-                                    <div class="p_bg3 progress-bar wow fadeInLeft" data-progress="85%" style="width: 80%; visibility: visible; animation-duration: 1.5s; animation-delay: 1.2s; animation-name: fadeInLeft;" data-wow-duration="1.5s" data-wow-delay="1.2s"><span>80%</span> </div>
-                                </div>
-                                <!-- PROGRESS END -->
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-md-6">
-                        <div class="skill-content-3">
-                            <div class="skill">
-                                <!-- PROGRESS START -->
-                                <div class="progress">
-                                    <div class="lead">Corporate Business :</div>
-                                    <div class="p_bg4 progress-bar wow fadeInLeft" data-progress="94%" style="width: 94%; visibility: visible; animation-duration: 1.5s; animation-delay: 1.2s; animation-name: fadeInLeft;" data-wow-duration="1.5s" data-wow-delay="1.2s"><span>94%</span> </div>
-                                </div>
-                                <!-- PROGRESS END -->
-                                <!-- PROGRESS START -->
-                                <div class="progress">
-                                    <div class="lead">Online Business :</div>
-                                    <div class="p_bg5 progress-bar wow fadeInLeft" data-progress="50%" style="width: 50%; visibility: visible; animation-duration: 1.5s; animation-delay: 1.2s; animation-name: fadeInLeft;" data-wow-duration="1.5s" data-wow-delay="1.2s"><span>50%</span> </div>
-                                </div>
-                                <!-- PROGRESS END -->
-                                <!-- PROGRESS START -->
-                                <div class="progress">
-                                    <div class="lead">Local Business :</div>
-                                    <div class="p_bg6 progress-bar wow fadeInLeft" data-progress="85%" style="width: 80%; visibility: visible; animation-duration: 1.5s; animation-delay: 1.2s; animation-name: fadeInLeft;" data-wow-duration="1.5s" data-wow-delay="1.2s"><span>80%</span> </div>
-                                </div>
-                                <!-- PROGRESS END -->
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!--Teacher List Wrap End-->
-            </div>
-        </section>
-        <!--Skill and Experience Wrap End-->
 
 
     </div>

@@ -28,7 +28,7 @@
     <div class="gt_top3_menu default_width">
         <div class="container">
             <div class="gt-logo">
-                <a href="#"><img src="images/logo.png" alt=""></a>
+                <a href="\"><img src="images/logo.png" alt=""></a>
             </div>
             <nav class="gt_hdr3_navigation">
                 <!-- Responsive Buttun -->

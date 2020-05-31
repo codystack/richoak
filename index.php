@@ -108,7 +108,7 @@
                             <i class="icon-write-board"></i>
                             <h5>Courses</h5>
                             <p>To extend the Basic Child Care Course and to equip learners to work in a nursery school with children aged 3-6 years.</p>
-                            <a  class="bg_1" href="#"> <i class="fa fa-arrow-right"></i></a>
+                            <!--<a  class="bg_1" href="#"> <i class="fa fa-arrow-right"></i></a>-->
                         </div>
                     </div>
 
@@ -117,7 +117,7 @@
                             <i class="icon-teacher-showing-on-whiteboard"></i>
                             <h5>Professional Teachers</h5>
                             <p>Teachers model effective learning. They identify their own learning needs and analyse. </p>
-                             <a class="bg_2" href="#"> <i class="fa fa-arrow-right"></i></a>
+                             <!--<a class="bg_2" href="#"> <i class="fa fa-arrow-right"></i></a>-->
                         </div>
                     </div>
 
@@ -126,7 +126,7 @@
                             <i class="icon-compass"></i>
                             <h5>Fully Equipped</h5>
                             <p>To equip learners with skills enabling them to give sound care in a home situation or as an assistant in a crèche </p>
-                             <a class="bg_3" href="#"> <i class="fa fa-arrow-right"></i></a>
+                             <!--<a class="bg_3" href="#"> <i class="fa fa-arrow-right"></i></a>-->
                         </div>
                     </div>
 
@@ -135,7 +135,7 @@
                             <i class="icon-number-blocks"></i>
                             <h5>Special Education</h5>
                             <p>What’s important is giving kids the resources they need to make progress in school. </p>
-                              <a class="bg_4" href="#"> <i class="fa fa-arrow-right"></i></a>
+                              <!--<a class="bg_4" href="#"> <i class="fa fa-arrow-right"></i></a>-->
 
                         </div>
                     </div>
@@ -198,13 +198,13 @@
         <section>
             <div class="container">
                 <div class="gt_hdg_1">
-                    <h3>Popular Courses</h3>
-                    <p>Select from variety of course we offer <span>to meet your child's potential</span>
+                    <h3>Knowledge is Power</h3>
+                    <p>Give your ward variety of knowledge <span>to meet your child's potential</span>
                     </p>
                     <span><img src="images/hdg-01.png" alt=""></span>
                 </div>
 
-                <div class="row">
+                <!--<div class="row">
                     <div class="col-md-8">
                         <div class="gt_course_tab_list default_width">
                             <ul id="filterable-item-filter-1">
@@ -223,7 +223,7 @@
                             </form>
                         </div>
                     </div>
-                </div>
+                </div>-->
 
                 <!--Popular Courses List Wrap Start-->
                 <div id="filterable-item-holder-1">
@@ -232,18 +232,18 @@
                             <figure>
                                 <img src="extra-images/latest-course-01.jpg" alt="">
                                 <figcaption>
-                                    <div class="course_price">20K</div>
+                                    <!--<div class="course_price">20K</div>-->
                                     <div class="course_category bg_1">Literature</div>
                                 </figcaption>
                             </figure>
-                            <div class="gt_latest_course_des default_width">
+                            <!--<div class="gt_latest_course_des default_width">
                                 <h5><a href="#">language & children’s literature</a></h5>
                                 <p>On successfully completing this course. You will obtain a recognised National Certificate which gives you a full NQF level  4 qualification.<a href="#">Read more</a></p>
 
                                 <div class="gt_course_apply">
                                     <a data-toggle="modal" data-target="#apply_form" href="#">Apply</a>
                                 </div>
-                            </div>
+                            </div>-->
                         </div>
                     </div>
                     <div class="filterable-item all 2 1 3 col-md-4 col-sm-6 col-xs-12">
@@ -251,11 +251,11 @@
                             <figure>
                                 <img src="extra-images/latest-course-02.jpg" alt="">
                                 <figcaption>
-                                    <div class="course_price">50K</div>
+                                    <!--<div class="course_price">50K</div>-->
                                     <div class="course_category bg_2">Technology</div>
                                 </figcaption>
                             </figure>
-                            <div class="gt_latest_course_des default_width">
+                            <!--<div class="gt_latest_course_des default_width">
                                 <h5><a href="#">	Computer administration skills</a></h5>
                                 <p>There are currently two methods of completing this course:
 Full time: 6 Months: This entails the learner attending college for lectures every  <a href="#">Read more</a></p>
@@ -263,7 +263,7 @@ Full time: 6 Months: This entails the learner attending college for lectures eve
                                 <div class="gt_course_apply">
                                     <a data-toggle="modal" data-target="#apply_form" href="#">Apply</a>
                                 </div>
-                            </div>
+                            </div>-->
                         </div>
                     </div>
                     <div class="filterable-item all 3 2 col-md-4 col-sm-6 col-xs-12">
@@ -271,24 +271,25 @@ Full time: 6 Months: This entails the learner attending college for lectures eve
                             <figure>
                                 <img src="extra-images/latest-course-03.jpg" alt="">
                                 <figcaption>
-                                    <div class="course_price">15K</div>
+                                    <!--<div class="course_price">15K</div>-->
                                     <div class="course_category bg_5">puppets & storytelling</div>
                                 </figcaption>
                             </figure>
-                            <div class="gt_latest_course_des default_width">
+                            <!--<div class="gt_latest_course_des default_width">
                                 <h5><a href="#">perceptual games</a></h5>
                                 <p>Our puppets & storytelling courses are the solution! Offering you a flexible approach to learning, you can fit studying around your busy lifestyle.<a href="#">Read more</a></p>
 
                                 <div class="gt_course_apply">
                                     <a data-toggle="modal" data-target="#apply_form" href="#">Apply</a>
                                 </div>
-                            </div>
+                            </div>-->
                         </div>
                     </div>
                 </div>
+                <!--
                 <div class="gt_view_more default_width">
                     <a href="#">Load More</a>
-                </div>
+                </div>--
                 <!--Popular Courses List Wrap End-->
 
             </div>

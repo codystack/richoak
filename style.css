@@ -2281,6 +2281,10 @@ ul.gt_blog_meta li i{
 .gt_about_img img{
 	width: 100%;
 	height: auto;
+	transform: scale(1.5);
+    float: left;
+    margin-top: 20px;
+    position: relative;
 }
 /*
 	  ==============================================================

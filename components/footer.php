@@ -133,15 +133,27 @@
 <!--Footer Wrap End-->
 
 <!--Back to Top Wrap Start-->
-<div class="back-to-top">
+<!--<div class="back-to-top">
         <a href="#home"><i class="fa fa-angle-up"></i></a>
-    </div>
+    </div>-->
     <!--Back to Top Wrap Start-->
 
 </div>
 <!--gt Wrapper End-->
 
-
+    <!--Start of Tawk.to Script-->
+    <script type="text/javascript">
+    var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+    (function(){
+    var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+    s1.async=true;
+    s1.src='https://embed.tawk.to/5ed382cbc75cbf1769f0f814/default';
+    s1.charset='UTF-8';
+    s1.setAttribute('crossorigin','*');
+    s0.parentNode.insertBefore(s1,s0);
+    })();
+    </script>
+    <!--End of Tawk.to Script-->
 
     <!--Jquery Library-->
     <script src="js/jquery.js"></script>
